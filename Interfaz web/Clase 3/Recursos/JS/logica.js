@@ -18,3 +18,5 @@ var user = {
     name:'Maikol',
     lastName: 'Lobo'
 }
+
+//Json
