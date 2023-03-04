@@ -87,8 +87,8 @@
     display: block;
 }
 
- .btnPreview:hover{
-    transition: all 1s ease;
+.container .card .info .btns .btnPreview:hover {
+    transition: all 0.3s ease;
     color: #ffffff;
     background-color: #8005d3;
 }    
