@@ -1,3 +1,14 @@
+.container{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    background-color: #169927;
+    height: 700px;
+    justify-content: space-evenly;
+    align-items: stretch;
+    overflow-y: auto;
+}
+
 .card{
     background-color: rgba(233,233,233);
     box-shadow: 1px 1px 40px -6px rgba(0,0,0,0.46);
@@ -8,6 +19,7 @@
     width: 700px;
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .card .img-container{
@@ -60,3 +72,5 @@
     font-size: 16px;
     color: rgb(147, 144, 144);
 }
+
+
